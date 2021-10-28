@@ -1,0 +1,10 @@
+nome = input('Informe seu nome completo: ')
+tamanho = int((len(nome)))-int(nome.count(' '))
+listaPalavras = nome.split()
+primeiroNome = listaPalavras[0]
+print('Nome digitado {}.'.format(nome))
+print('Nome em letras maiúsculas {}.'.format(nome.upper()))
+print('Nome em letras minúsculas {}.'.format(nome.lower()))
+print('O nome digitado possui {} caracteres sem contar os espaços.'.format(tamanho))
+print('O nome contém {} palavras. '.format(len(listaPalavras)))
+print('O primeiro nome é {}'.format(primeiroNome))
