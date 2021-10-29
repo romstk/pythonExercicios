@@ -1,2 +1,2 @@
 # pythonExercicios
- Repositório utilizado para salvar exercícios do Curos de Python do Estudonauta 
+ Repositório utilizado para salvar exercícios do Curso de Python do Estudonauta 
